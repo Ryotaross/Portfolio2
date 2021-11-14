@@ -9,6 +9,7 @@ import { Item } from './contents';
 import golf from '../shortCourse.png';
 import coin from '../coin.png';
 import osaka from '../osaka-short.png';
+import osaka2 from '../osaka-short2.png';
 
 function ProductMain() {
   return (
@@ -45,6 +46,7 @@ function ProductMain() {
       <Item>
         <MainName>Osaka Short Course-ゴルフ場マップアプリ</MainName>
         <PreProductImage src={osaka} alt="book" />
+        <PreProductImage src={osaka2} alt="book" />
         <MainText>
           ゴルフ場のショートコースに特化した地図検索アプリです。<br />
           探すのに便利になると思い開発しました。<br />

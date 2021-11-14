@@ -25,7 +25,7 @@ export const Flex = styled.div `
 
 export const Month = styled.h4 `
   display: block;
-  width:5em;
+  width:6em;
   margin: 0 2.5em 1.25em 0;
   line-height: 1.625;
 `;

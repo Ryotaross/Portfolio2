@@ -68,7 +68,8 @@ function HistoryMain() {
           <MainText>プログラミング学習開始</MainText>
           <MainText>
             ProgateにてHTML・CSS・PHP・Javascriptなどの学習をはじめました。<br />
-            １ヶ月半みっちりやりこみProgateのLV.350overでした。
+            １ヶ月半みっちりやりこみProgateのLV.350overでした。<br />
+            学習教材：Progate（HTML/CSS/PHP/Node.js）
           </MainText>
         </div>
       </Flex>
@@ -102,6 +103,8 @@ function HistoryMain() {
               <a href="https://drive.google.com/file/d/1EimNWLKTt8q75wKiNawYMiA2Mq_z88s3/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 CodeCamp修了書
               </a>
+              <br />
+              学習教材：CodeCamp（HTML/CSS/PHP/Node.js）
             </MainText>
           </div>
         </div>
@@ -118,6 +121,14 @@ function HistoryMain() {
           <MainText>
             Laravelで開発してみたいと思い、ゴルフ場検索サイトを制作しました。<br />
             運用してみようと考えています。Laravelが大好きになりました。
+            学習教材：Techpit（
+              <a href="https://www.techpit.jp/courses/11" target="_blank" rel="noopener noreferrer">
+                Laravel1
+              </a>
+              ,
+              <a href="https://www.techpit.jp/courses/42" target="_blank" rel="noopener noreferrer">
+                Laravel2
+              </a>）
           </MainText>
         </div>
       </Flex>
@@ -142,6 +153,14 @@ function HistoryMain() {
           </MainText>
           <MainText>
             最近備忘録として、Qiitaへの投稿もはじめました。<br />
+            学習教材：TechTrain（Railway（HTML/CSS/React.js）MISSON（React.js））,
+              <a href="https://www.techpit.jp/courses/111" target="_blank" rel="noopener noreferrer">
+                Techpit（React.js）
+              </a>
+              ,
+              <a href="https://qiita.com/morry_48/items/abd620f051fb4f36dcc2" target="_blank" rel="noopener noreferrer">
+              Qiita（Laravel）
+              </a>
           </MainText>
         </div>
       </Flex>

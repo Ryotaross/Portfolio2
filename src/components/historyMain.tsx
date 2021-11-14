@@ -69,7 +69,7 @@ function HistoryMain() {
           <MainText>
             ProgateにてHTML・CSS・PHP・Javascriptなどの学習をはじめました。<br />
             １ヶ月半みっちりやりこみProgateのLV.350overでした。<br />
-            学習教材：Progate（HTML/CSS/PHP/Node.js）
+            学習教材：Progate（HTML/CSS/PHP/Node.js/MySQL）
           </MainText>
         </div>
       </Flex>
@@ -104,7 +104,7 @@ function HistoryMain() {
                 CodeCamp修了書
               </a>
               <br />
-              学習教材：CodeCamp（HTML/CSS/PHP/Node.js）
+              学習教材：CodeCamp（HTML/CSS/PHP/Laravel/MySQL）
             </MainText>
           </div>
         </div>
@@ -120,7 +120,7 @@ function HistoryMain() {
           <MainText>WEBアプリ開発</MainText>
           <MainText>
             Laravelで開発してみたいと思い、ゴルフ場検索サイトを制作しました。<br />
-            運用してみようと考えています。Laravelが大好きになりました。
+            運用してみようと考えています。Laravelが大好きになりました。<br />
             学習教材：Techpit（
               <a href="https://www.techpit.jp/courses/11" target="_blank" rel="noopener noreferrer">
                 Laravel1

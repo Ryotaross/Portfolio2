@@ -15,16 +15,6 @@ function ProductMain() {
   return (
     <Main>
       <Item>
-        <MainName>Book!-書籍レビューアプリ</MainName>
-        <a href="https://book-review-react.herokuapp.com/" target="_blank" rel="noopener noreferrer"><ProductImage src={Book} alt="book" /></a>
-        <MainText>
-          React.jsでのアプリ開発の練習として、書籍レビューアプリを制作しました。<br />
-          User:BBB<br />
-          Pass:CCC
-        </MainText>
-        <MainText>Skills:HTML/CSS/React.js</MainText>
-      </Item>
-      <Item>
         <MainName>ショートコース大全-ゴルフ場検索アプリ</MainName>
         <a href="http://the-twenty.tokyo:8000/" target="_blank" rel="noopener noreferrer"><ProductImage src={golf} alt="book" /></a>
         <MainText>
@@ -42,6 +32,17 @@ function ProductMain() {
           Pass:testtest
         </MainText>
         <MainText>Skills:HTML/CSS/Bootstrap/PHP/MySQL</MainText>
+      </Item>
+      <Item>
+        <MainName>Book!-書籍レビューアプリ</MainName>
+        <a href="https://book-review-react.herokuapp.com/" target="_blank" rel="noopener noreferrer"><ProductImage src={Book} alt="book" /></a>
+        <MainText>
+          React.jsでのアプリ開発の練習として、書籍レビューアプリを制作しました。<br />
+          User:BBB<br />
+          Pass:CCC<br />
+          ※Heroku無料枠のため閲覧したい際は連絡ください。
+        </MainText>
+        <MainText>Skills:HTML/CSS/React.js</MainText>
       </Item>
       <Item>
         <MainName>Osaka Short Course-ゴルフ場マップアプリ</MainName>

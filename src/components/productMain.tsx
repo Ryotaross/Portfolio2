@@ -12,15 +12,6 @@ function ProductMain() {
   return (
     <Main>
       <Item>
-        <MainName>Osaka Short Course-ゴルフ場マップアプリ</MainName>
-        <a href="https://book-review-react.herokuapp.com/" target="_blank" rel="noopener noreferrer"><ProductImage src={Book} alt="book" /></a>
-        <MainText>
-          ゴルフ場のショートコースに特化した地図検索アプリです。<br />
-          探すのに便利になると思い開発しました。
-        </MainText>
-        <MainText>Skills:HTML/CSS/React.js/Laravel</MainText>
-      </Item>
-      <Item>
         <MainName>Book!-書籍レビューアプリ</MainName>
         <a href="https://book-review-react.herokuapp.com/" target="_blank" rel="noopener noreferrer"><ProductImage src={Book} alt="book" /></a>
         <MainText>

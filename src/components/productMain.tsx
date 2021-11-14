@@ -3,10 +3,12 @@ import { Main } from './contents';
 import { MainName } from './contents';
 import { MainText } from './contents';
 import { ProductImage } from './contents';
+import { PreProductImage } from './contents';
 import Book from '../book.png';
 import { Item } from './contents';
 import golf from '../shortCourse.png';
 import coin from '../coin.png';
+import osaka from '../osaka-short.png';
 
 function ProductMain() {
   return (
@@ -39,6 +41,16 @@ function ProductMain() {
           Pass:testtest
         </MainText>
         <MainText>Skills:HTML/CSS/Bootstrap/PHP/MySQL</MainText>
+      </Item>
+      <Item>
+        <MainName>Osaka Short Course-ゴルフ場マップアプリ</MainName>
+        <PreProductImage src={osaka} alt="book" />
+        <MainText>
+          ゴルフ場のショートコースに特化した地図検索アプリです。<br />
+          探すのに便利になると思い開発しました。<br />
+          ※現在、デプロイさせようと必死に頑張っております。
+        </MainText>
+        <MainText>Skills:HTML/CSS/React.js/Laravel</MainText>
       </Item>
     </Main>
   );

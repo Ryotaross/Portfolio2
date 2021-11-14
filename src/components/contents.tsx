@@ -47,6 +47,11 @@ export const ProductImage = styled.img `
   }
   `;
 
+  export const PreProductImage = styled.img `
+  width:100%;
+  object-fit: cover;
+  `;
+
 export const Item = styled.div `
   border-bottom: 2px dashed grey;
   margin: 0 0 1.25em;

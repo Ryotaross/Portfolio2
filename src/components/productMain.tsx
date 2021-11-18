@@ -51,7 +51,7 @@ function ProductMain() {
         <MainText>
           ゴルフ場のショートコースに特化した地図検索アプリです。<br />
           探すのに便利になると思い開発しました。<br />
-          ※ローカルでは完成はしています。現在、本番環境へと必死に頑張っております。
+          ※現在、本番環境への作業をしております。
         </MainText>
         <MainText>Skills:HTML/CSS/React.js/Laravel</MainText>
       </Item>

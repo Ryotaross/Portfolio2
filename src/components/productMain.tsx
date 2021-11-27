@@ -45,13 +45,12 @@ function ProductMain() {
         <MainText>Skills:HTML/CSS/React.js</MainText>
       </Item>
       <Item>
-        <MainName>Osaka Short Course-ゴルフ場マップアプリ</MainName>
+        <MainName>Osaka Short Course-ゴルフ場マップアプリ※現在開発中</MainName>
         <PreProductImage src={osaka} alt="book" />
         <PreProductImage src={osaka2} alt="book" />
         <MainText>
           ゴルフ場のショートコースに特化した地図検索アプリです。<br />
-          探すのに便利になると思い開発しました。<br />
-          ※現在、本番環境への作業をしております。
+          探すのに便利になると思い開発しております。<br />
         </MainText>
         <MainText>Skills:HTML/CSS/React.js/Laravel</MainText>
       </Item>

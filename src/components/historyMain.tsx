@@ -174,7 +174,7 @@ function HistoryMain() {
         <List>TypeScriptでアプリを作る。</List>
         <List>エンジニア転職をして、実務の中で更にできることを増やす。</List>
         <List>ゴルフ関係の２サイトを運用してみる。</List>
-        <List>Qiitaへの投稿を怠らない。</List>
+        <List>新しいことを知ったらQiitaへ投稿する。</List>
         <List>
           <a href="https://www.techpit.jp/" target="_blank" rel="noopener noreferrer">
             Techpit

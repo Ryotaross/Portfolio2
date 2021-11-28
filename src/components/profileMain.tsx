@@ -37,6 +37,7 @@ function ProfileMain() {
           <List>PHP</List>
           <List>Laravel</List>
           <List>React.js(このサイトはReact.jsで作りました)</List>
+          <List>TypeScript(現在学習中)</List>
         </ul>
     </Main>
   );

@@ -162,10 +162,16 @@ function HistoryMain() {
               Qiita（Laravel）
               </a>
           </MainText>
+          <MainText>Udemyで
+            <a href="https://www.udemy.com/share/102EQg3@5corDQS2WiZy5vh5xyyiVSBtyplXCMtLhy_LONZQwowlfz_fa5xuBTSMv9INwPlX/" target="_blank" rel="noopener noreferrer">
+              TypeScript
+            </a>
+            を学習中</MainText>
         </div>
       </Flex>
       <MainName className="English">Next Action!</MainName>
       <ul>
+        <List>TypeScriptでアプリを作る。</List>
         <List>エンジニア転職をして、実務の中で更にできることを増やす。</List>
         <List>ゴルフ関係の２サイトを運用してみる。</List>
         <List>Qiitaへの投稿を怠らない。</List>

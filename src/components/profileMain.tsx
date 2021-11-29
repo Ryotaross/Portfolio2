@@ -25,7 +25,7 @@ function ProfileMain() {
         見事に大ハマリして、時間があるときはプログラムを書いています。
       </MainText>
       <MainText>
-        現在、エンジニアを目指して絶賛転職活動中です。よろしくお願い致します。<br />
+        現在、IT業界を目指して絶賛転職活動中です。よろしくお願い致します。<br />
         少しでもおもしろいと思っていただけると嬉しいです。
       </MainText>
       <MainName className="English">Experience</MainName>
